@@ -1,4 +1,4 @@
-# Apple Human Interface Design Glossary
+# Apple HIG Glossary
 
 Use Apple’s terms precisely. Component names describe behavior, not merely appearance.
 

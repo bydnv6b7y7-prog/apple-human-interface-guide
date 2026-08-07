@@ -1,9 +1,9 @@
 ---
-name: apple-human-interface-design
+name: apple-hig
 description: Design, implement, redesign, or audit production iOS and iPadOS interfaces with Apple Human Interface Guidelines. Use for SwiftUI/UIKit architecture, navigation, system components, adaptive layouts, accessibility, privacy, full state and recovery design, interaction polish, or HIG reviews. Not for macOS-, watchOS-, or visionOS-only work, or current API and App Review facts.
 ---
 
-# Apple Human Interface Design
+# Apple HIG
 
 Turn product intent, an existing screen, or SwiftUI/UIKit code into one decisive Apple-native page contract. Connect product hierarchy, system-component choice, complete state behavior, iPhone/iPad adaptation, accessibility, privacy, feedback, and recovery to production-oriented implementation and acceptance checks.
 
