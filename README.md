@@ -4,6 +4,8 @@ A production-oriented Agent Skill for designing, implementing, and auditing iOS 
 
 Built on the open [Agent Skills](https://agentskills.io/) format, `apple-hig` can be used by any compatible agent.
 
+[View `apple-hig` on skills.sh](https://www.skills.sh/p/cgLdAw6JVuzt4Nb7)
+
 Turn product intent into an Apple-native page contract before polishing pixels. The skill connects navigation, system-component choice, complete state behavior, adaptive layout, accessibility, privacy, feedback, recovery, and SwiftUI/UIKit implementation in one repeatable workflow.
 
 ## What You Get
@@ -26,10 +28,16 @@ Turn product intent into an Apple-native page contract before polishing pixels. 
 
 ## Install
 
-Clone the repository into a folder named `apple-hig`:
+Install from skills.sh:
 
 ```bash
-git clone https://github.com/bydnv6b7y7-prog/apple-human-interface-guide.git apple-hig
+npx skills add https://skills.sh/p/cgLdAw6JVuzt4Nb7
+```
+
+Or clone the repository manually into a folder named `apple-hig`:
+
+```bash
+git clone https://github.com/bydnv6b7y7-prog/apple-hig.git apple-hig
 ```
 
 Move or symlink the `apple-hig` folder into the skills directory supported by your agent. Discovery paths differ by host, so follow your agent’s skill-installation documentation.
