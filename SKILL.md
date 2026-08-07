@@ -1,11 +1,13 @@
 ---
 name: apple-human-interface-design
-description: Design, implement, or review production iOS and iPadOS pages using Apple Human Interface Guidelines. Use for page architecture, SwiftUI/UIKit component choice, navigation, adaptive layouts, accessibility, privacy, system experiences, state design, interaction polish, or HIG audits.
+description: Design, implement, redesign, or audit production iOS and iPadOS interfaces with Apple Human Interface Guidelines. Use for SwiftUI/UIKit architecture, navigation, system components, adaptive layouts, accessibility, privacy, full state and recovery design, interaction polish, or HIG reviews. Not for macOS-, watchOS-, or visionOS-only work, or current API and App Review facts.
 ---
 
 # Apple Human Interface Design
 
-Use this skill to turn product intent into an Apple-native page design and a production-oriented implementation. Optimize for purpose, agency, responsibility, familiarity, flexibility, simplicity, craft, and delight—in that order when tradeoffs conflict.
+Turn product intent, an existing screen, or SwiftUI/UIKit code into one decisive Apple-native page contract. Connect product hierarchy, system-component choice, complete state behavior, iPhone/iPad adaptation, accessibility, privacy, feedback, and recovery to production-oriented implementation and acceptance checks.
+
+Optimize for purpose, agency, responsibility, familiarity, flexibility, simplicity, craft, and delight—in that order when tradeoffs conflict.
 
 ## Operating Procedure
 
